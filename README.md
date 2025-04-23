@@ -11,9 +11,10 @@ For Windows OS:
 Download the Media Creation Tool: 
 - [Windows 10 Tool ](https://www.microsoft.com/software-download/windows10)
 - [Windows 11 Tool ](https://www.microsoft.com/software-download/windows11)
-
 ---
-
+1. **Download the windwos ISO file**
+   - Search up `Windows x iso download` in your preferred search engine.
+       - ### The link should look like this:
 ![GetImage](https://github.com/user-attachments/assets/f9019da6-7ce3-4572-bc59-d76851a00ba6)
 
 
