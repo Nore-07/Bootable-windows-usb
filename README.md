@@ -9,9 +9,8 @@
 For Windows OS: 
 
 Download the Media Creation Tool: 
-
-[Windows 10 Tool ](https://www.microsoft.com/software-download/windows10)
-https://www.microsoft.com/software-download/windows11
+- [Windows 10 Tool ](https://www.microsoft.com/software-download/windows10)
+- [Windows 11 Tool ](https://www.microsoft.com/software-download/windows11)
 
 ---
 
