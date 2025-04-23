@@ -14,7 +14,7 @@ Download the Media Creation Tool:
 ---
 1. **Download the windwos ISO file**
    - Search up `Windows x iso download` in your preferred search engine.  
-   ###### - This is what the link should look like: 
+   ##### - This is what the link should look like: 
 ![GetImage](https://github.com/user-attachments/assets/f9019da6-7ce3-4572-bc59-d76851a00ba6)
 
 
