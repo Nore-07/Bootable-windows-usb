@@ -6,12 +6,12 @@
 - Internet access 
 
 
-###For Windows OS: 
+### For Windows OS: 
 1. **Download the Media Creation Tool (I'm doing this on windows 10, but the process should be similar):**
-- [Windows 10 Tool ](https://www.microsoft.com/software-download/windows10)
-- [Windows 11 Tool ](https://www.microsoft.com/software-download/windows11)
+   - [Windows 10 Tool ](https://www.microsoft.com/software-download/windows10)
+   - [Windows 11 Tool ](https://www.microsoft.com/software-download/windows11)
 
-- Once downloaded, double click the `.exe` file to start the installation.
+   - Once downloaded, double click the `.exe` file to start the installation.
 - ###### This should be the first screen presented to you:
 ![GetImage(1)](https://github.com/user-attachments/assets/72177d67-cc6c-4feb-a8a8-bab489d10c23)
 
