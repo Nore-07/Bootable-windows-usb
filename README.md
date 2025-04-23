@@ -12,10 +12,10 @@
    - [Windows 11 Tool ](https://www.microsoft.com/software-download/windows11)
 
    - Once downloaded, double click the `.exe` file to start the installation.
+  
+   - We're going to create a bootable USB drive, so  in this case select the Installation Media option.
 - ###### This should be the first screen presented to you:
    ![GetImage(1)](https://github.com/user-attachments/assets/72177d67-cc6c-4feb-a8a8-bab489d10c23)
-
-   - We're going to create a bootable USB drive, so  in this case select the Installation Media option.
 ---
 2. **Download the windwos ISO file**
    - Search up `Windows x iso download` in your preferred search engine.  
