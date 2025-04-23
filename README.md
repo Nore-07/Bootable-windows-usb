@@ -10,14 +10,14 @@ For Windows OS:
 
 Download the Media Creation Tool: 
 
-Windows 10 Tool 
-Windows 11 Tool 
+[Windows 10 Tool ](https://www.microsoft.com/software-download/windows10)
+https://www.microsoft.com/software-download/windows11
 
 ---
 
 ![GetImage](https://github.com/user-attachments/assets/f9019da6-7ce3-4572-bc59-d76851a00ba6)
 
----
+
 
 For Linux Ubuntu OS: 
 
